@@ -654,6 +654,8 @@ const Section = () => {
         </div>
       </div>
       {/* container11 */}
+
+      bnuhjmik,njmk
       <div className="flex flex-col items-center justify-center mt-20 px-4 md:px-8 lg:px-16">
         <h1 className="text-black text-2xl md:text-4xl font-bold text-center mb-4">
           Start your online business with Webx
